@@ -9,7 +9,8 @@
 
 - https://github.com/snakers4/silero-models 
 
-- https://github.com/PaddlePaddle/PaddleSpeech  
+- https://github.com/PaddlePaddle/PaddleSpeech
+- https://balacoon.com/use/tts/package
 
  
 
