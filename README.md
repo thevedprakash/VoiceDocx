@@ -1,11 +1,11 @@
 # VoiceDocx: Editing Voice and Speech with Text.
 
-Voice Editing through Text: 
+**Voice Editing through Text**
 
-##Inspiration: 
+## Inspiration: 
   https://www.youtube.com/watch?v=AZNTqytOhXk (seek 41:30)  
 
-##Resources:  
+## Resources:  
 
 - https://github.com/snakers4/silero-models 
 
